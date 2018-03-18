@@ -9,30 +9,8 @@ body {
 
 body{
 	width: 100%;
-	background: linear-gradient(90deg, #47a8f9, #8a66fe);
-	background-size: 400% 400%;
-
-	-webkit-animation: AnYmeBG 11s ease infinite;
-	-moz-animation: AnYmeBG 11s ease infinite;
-	animation: AnYmeBG 11s ease infinite;
+	background: #47a8f9;
 }
-
-@-webkit-keyframes AnYmeBG {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
-}
-@-moz-keyframes AnYmeBG {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
-}
-@keyframes AnYmeBG { 
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
-}
-
 
 .link {
     background-color: #ededed;
