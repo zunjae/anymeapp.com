@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+ 
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="1; url=https://anyme.app/invite">
+ 
+<script>
+  window.location.href = "https://anyme.app/invite"
+</script>
+ 
+<title>Page Redirection</title>
+
+If you are not redirected automatically, then <a href='https://anyme.app/invite'>please click on this</a>
